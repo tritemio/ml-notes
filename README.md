@@ -1,3 +1,3 @@
 # ML Notes
 
-Some notes on Machine Learning techniques.
+Some of my notes on Machine Learning techniques.
